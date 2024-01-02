@@ -23,7 +23,7 @@ Today yes Today, enjoy the experience that Abbima offers you, designed to help t
 
 ### Technolgies : Android SDK, Kotlin, XML, Firebase (Realtime | Firestore | Firebase Storage | Analytics | Auth (Google | Facebook | Email), Glide, Navigation Components, TensorFlow, Arcore.
 
-
+![image](https://github.com/EzeAlegre/Android-Portfolio/assets/111524804/fa6e507d-7d2c-4cd5-bdf2-460901fefb12)
 
 # Chat app
 
